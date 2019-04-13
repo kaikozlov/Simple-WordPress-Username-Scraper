@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import csv
 
 #specify WordPress URL
-quote_page = ""
+quote_page = "https://wordpressurl.tld/?author="
 
 #establish author number variable
 author = 2
