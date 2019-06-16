@@ -2,5 +2,6 @@
 A clean and concise WordPress scraper written in Python 3
 
 Requirements:
-    Python 3
-    BeautifulSoup4
+Python 3
+BeautifulSoup4
+urllib
